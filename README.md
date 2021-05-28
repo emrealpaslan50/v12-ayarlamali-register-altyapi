@@ -1,6 +1,6 @@
 # Brita V12 Register Altyapısı
 
-## Not: `Settings/roller.json` ile `Settings/kanallar.json` dosyalarını `.ayar-kanal` ile `.ayar-rol` komutu ile doldurmanız gerekmektedir. 
+* Not: `Settings/roller.json` ile `Settings/kanallar.json` dosyalarını `.ayar-kanal` ile `.ayar-rol` komutu ile doldurmanız gerekmektedir. 
 
 Botu Başlatmak İçin Yapmanız Gerekenler;
 
