@@ -21,6 +21,7 @@ Config.json Dosyasının İçi;
     "UnTag":"Kayıtsız Tagınız"
 ```
 * Brita#1007 (830872038004359240)  Tracer#1007 (806554511216214038) | Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz, eğer ulaşamazsanız discord.gg/serendia'da sorun yol gösterirlerrr
+
 ![standard_11](https://user-images.githubusercontent.com/82638394/115013985-6e813800-9eba-11eb-932c-116b56c1c624.gif)
 
 ## Bot Hakkında Bir Kaç Görsel;
